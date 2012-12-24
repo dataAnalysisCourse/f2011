@@ -1,0 +1,14 @@
+Cell Counting Results. Counting is from 26-Oct-2011 23:27:34
+12 Total Cells Counted
+Cell 1    x: 47.98  um, y: 119.92 um
+Cell 2    x: 191.87 um, y: 145.82 um
+Cell 3    x: 200.50 um, y: 332.87 um
+Cell 4    x: 148.70 um, y: 422.08 um
+Cell 5    x: 128.56 um, y: 517.05 um
+Cell 6    x: 137.19 um, y: 620.64 um
+Cell 7    x: 263.81 um, y: 646.54 um
+Cell 8    x: 396.18 um, y: 577.48 um
+Cell 9    x: 413.45 um, y: 511.29 um
+Cell 10   x: 335.75 um, y: 465.25 um
+Cell 11   x: 401.94 um, y: 281.08 um
+Cell 12   x: 318.49 um, y: 226.40 um

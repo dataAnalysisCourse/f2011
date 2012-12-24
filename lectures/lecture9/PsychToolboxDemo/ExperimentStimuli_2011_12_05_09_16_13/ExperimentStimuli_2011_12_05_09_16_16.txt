@@ -1,0 +1,11 @@
+
+[2011_12_05_09_16_16] screenDim = [1050 1600]
+[2011_12_05_09_16_16] ifi = 0.0166612057800012
+[2011_12_05_09_16_16] highDensity = false
+[2011_12_05_09_16_34] LinesRFmap( 5, .35, 8, 0, highDensity, screen_s );
+[2011_12_05_09_16_40] SensitizationLines( [2 2], 1, .35, .08, 480, 0, highDensity, screen_s );
+[2011_12_05_09_16_44] FullFieldRandomColor( 4, [.5; .5; .5], [.35; .35; .35], 0, highDensity, screen_s);
+[2011_12_05_09_16_48] ObjectMotion( 2, 1, 1, 1, 8, highDensity, screen_s );
+[2011_12_05_09_16_56] DirectionalMotion( 4, 2, {'up', 'right', 'down', 'left'}, 16, highDensity, screen_s );
+[2011_12_05_09_17_01] SquaresRFmap( 4, 1, 16, 0, highDensity, screen_s );
+[2011_12_05_09_17_05] Total elapsed time was = 30.721667715

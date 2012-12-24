@@ -1,0 +1,15 @@
+
+
+
+2011 - Radial8 Center-out click training
+2012 - Radial8 Center-out with click randomly during movement
+2013 - DLR 3D Training Game with click training at center. Has a 2D option.
+
+3011 - Radial-8 Center-out training
+3012 - 3D Radial Center-Out Training Game [IN DEVELOPMENT]
+3013 - DLR 3D Training Game. Has a 2D option.
+
+8002 - 2D Radial-8 Assessment Task
+8003 - 2D Fitts Assessment Task
+8004 - 2D Fitts Assessment Task with Index of Difficulty (ID) optimization
+8102 - 3D Radial-8 Assessment Task [IN DEVELOPMENT]
